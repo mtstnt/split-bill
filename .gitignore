@@ -1,0 +1,8 @@
+# Build results
+bin/*.exe
+
+# Vendor
+vendor/
+
+# Views
+views/node_modules
